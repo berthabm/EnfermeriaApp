@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\views\\asignaturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\repositories\\asignaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\repositories\\asignaturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\controllers\\asignaturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\services\\asignaturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\services\\asignaturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\views\\asignaturas\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\views\\asignaturas\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\enfermeriaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\enfermeriaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|c:\\users\\bertha\\proyectos\\prueba-tecnica-soy-calidad\\enfermeriaapp\\enfermeriaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{648BA57A-165B-49B5-8DDF-579C449D8F5D}|EnfermeriaApp\\EnfermeriaApp.csproj|solutionrelative:enfermeriaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsignaturasController.cs",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Controllers\\AsignaturasController.cs",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Controllers\\AsignaturasController.cs",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Controllers\\AsignaturasController.cs",
+              "RelativeToolTip": "EnfermeriaApp\\Controllers\\AsignaturasController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:50:37.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Repositories\\AsignaturaRepository.cs",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Repositories\\AsignaturaRepository.cs",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Repositories\\AsignaturaRepository.cs",
+              "RelativeToolTip": "EnfermeriaApp\\Repositories\\AsignaturaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:49:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Models\\Asignatura.cs",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Models\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Models\\Asignatura.cs",
+              "RelativeToolTip": "EnfermeriaApp\\Models\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:47:21.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\appsettings.json",
+              "RelativeToolTip": "EnfermeriaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T00:44:13.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Views\\Asignaturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Views\\Asignaturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Views\\Asignaturas\\Index.cshtml",
+              "RelativeToolTip": "EnfermeriaApp\\Views\\Asignaturas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T00:52:28.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Views\\Asignaturas\\Error.cshtml",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Views\\Asignaturas\\Error.cshtml",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Views\\Asignaturas\\Error.cshtml",
+              "RelativeToolTip": "EnfermeriaApp\\Views\\Asignaturas\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T02:30:07.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsignaturaService.cs",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Services\\AsignaturaService.cs",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Services\\AsignaturaService.cs",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Services\\AsignaturaService.cs",
+              "RelativeToolTip": "EnfermeriaApp\\Services\\AsignaturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:02:51.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Program.cs",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\Program.cs",
+              "RelativeToolTip": "EnfermeriaApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:51:03.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnfermeriaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\EnfermeriaApp.csproj",
+              "RelativeDocumentMoniker": "EnfermeriaApp\\EnfermeriaApp.csproj",
+              "ToolTip": "C:\\Users\\BERTHA\\PROYECTOS\\PRUEBA-TECNICA-SOY-CALIDAD\\EnfermeriaApp\\EnfermeriaApp\\EnfermeriaApp.csproj",
+              "RelativeToolTip": "EnfermeriaApp\\EnfermeriaApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T00:54:13.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
